@@ -1,4 +1,4 @@
-## Olá, eu sou a Débora Murielle,
+## Olá, eu sou a Débora Murielle!
 
 🖥️ Hoje trabalho com suporte T.I em um colégio particular.<br>
 📚 Cursando graduação em Segurança da Informação - Universidade Nove de Julho – UNINOVE.<br>
