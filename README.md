@@ -2,6 +2,7 @@
 
 🖥️ Hoje trabalho com suporte T.I em um colégio particular.<br>
 📚 Cursando graduação em Segurança da Informação - Universidade Nove de Julho – UNINOVE.<br>
+📚 Cursando graduação em Análise e Desenvolvimento de Sistemas - Universidade Paulista – UNIP.<br>
 🎯 Minha meta é ser uma desenvolvedora Back-End!
 
 <div align="center">
