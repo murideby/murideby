@@ -10,7 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murideby&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murideby&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  <img align="right" alt="deby" height="150" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_guKUvcY5.png">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Deby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Deby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Deby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Deby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Deby-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  
+</div>
   
  ##
  <a href="https://wa.me/5511954380800"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
