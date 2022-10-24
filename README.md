@@ -5,11 +5,7 @@
 📚 Cursando graduação em Análise e Desenvolvimento de Sistemas - Universidade Paulista – UNIP.<br>
 🎯 Minha meta é ser uma desenvolvedora Front-End!
 
-<div align="center">
-  <a href="https://github.com/murideby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murideby&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murideby&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Deby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
