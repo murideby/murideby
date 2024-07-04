@@ -1,8 +1,8 @@
 ## Olá, eu sou a Débora Murielle!
 
-🖥️ Hoje trabalho com suporte T.I em um colégio particular.<br>
-📚 Cursando graduação em Segurança da Informação - Universidade Nove de Julho – UNINOVE.<br>
-📚 Cursando graduação em Análise e Desenvolvimento de Sistemas - Universidade Paulista – UNIP.<br>
+🖥️ Hoje trabalho como analista computacional em um colégio particular.<br>
+📚 Formada em Segurança da Informação - Universidade Nove de Julho – UNINOVE.<br>
+📚 Formada em Análise e Desenvolvimento de Sistemas - Universidade Paulista – UNIP.<br>
 🎯 Minha meta é ser uma desenvolvedora Front-End!
 
 
